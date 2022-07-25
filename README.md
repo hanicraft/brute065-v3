@@ -1,4 +1,4 @@
-# brute065-v3-BETA
+# brute065-v3
 version 3 of my tool for cracking passwords
 features in new version :
 1-Cracks both md4 and md5
@@ -14,3 +14,4 @@ features to add :
 
 give credits if used
 hanicraft
+no longer beta now stable
